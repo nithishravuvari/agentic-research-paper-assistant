@@ -24,13 +24,13 @@ It ingests research papers, preprocesses them, retrieves relevant context, and g
 
 ---
 
-## 1. Table of Contents  
+## 1. Table of Contents  
 
-1. [Dataset / Papers](#dataset--papers)  
-2. [Libraries Used](#libraries-used)  
-3. [How to Install and Run the Project](#how-to-install-and-run-the-project)  
-4. [How to Use the Project](#how-to-use-the-project)  
-5. [Results](#results)  
+1. [Dataset / Papers](#2-dataset--papers)  
+2. [Libraries Used](#3-libraries-used)  
+3. [How to Install and Run the Project](#4-how-to-install-and-run-the-project)  
+4. [How to Use the Project](#5-how-to-use-the-project)  
+5. [Results](#6-results) 
 
 ---
 
@@ -53,7 +53,6 @@ It ingests research papers, preprocesses them, retrieves relevant context, and g
 - **openai** → LLM-powered text generation.  
 - **tiktoken** → Token counting and handling.  
 - **pydantic** → Data validation and structured output.  
-- **fastapi** → Optional API interface.  
 - **rich** → Pretty terminal printing for better readability.  
 
 ---
